@@ -1,0 +1,14 @@
+# hero2ltexx-user 8.0.0 R16NW G935FXXS8ETC3 release-keys
+- manufacturer: samsung
+- platform: exynos5
+- codename: hero2lte
+- flavor: hero2ltexx-user
+- release: 8.0.0
+- id: R16NW
+- incremental: G935FXXS8ETC3
+- tags: release-keys
+- fingerprint: samsung/hero2ltexx/hero2lte:8.0.0/R16NW/G935FXXS8ETC3:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: hero2ltexx-user-8.0.0-R16NW-G935FXXS8ETC3-release-keys
+- repo: samsung_hero2lte_dump
